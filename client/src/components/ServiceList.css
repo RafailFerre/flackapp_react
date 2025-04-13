@@ -1,0 +1,27 @@
+.service-list {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .service-list h2 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+  }
+  
+  .service-item {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 10px;
+    background-color: #f9f9f9;
+  }
+  
+  .service-item h3 {
+    margin: 0 0 10px;
+    font-size: 1.2em;
+  }
+  
+  .service-item p {
+    margin: 5px 0;
+  }
